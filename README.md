@@ -2,6 +2,8 @@
 
 This project predicts fraudulent transactions using Machine Learning.
 
+## Live Demo
+- https://fraud-detection-webapp-gwlf2resvtdcxvqfrk8imm.streamlit.app/
 ## Technologies
 - Python
 - Streamlit
@@ -12,3 +14,4 @@ This project predicts fraudulent transactions using Machine Learning.
 - Real-time fraud prediction
 - Web interface
 - Machine Learning model
+
